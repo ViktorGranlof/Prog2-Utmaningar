@@ -1,0 +1,36 @@
+C:\Users\elev\source\repos\Recipe Manager\Recipe Manager\bin\Debug\Recipe Manager.exe.config
+C:\Users\elev\source\repos\Recipe Manager\Recipe Manager\bin\Debug\Recipe Manager.exe
+C:\Users\elev\source\repos\Recipe Manager\Recipe Manager\bin\Debug\Recipe Manager.pdb
+C:\Users\elev\source\repos\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.csprojResolveAssemblyReference.cache
+C:\Users\elev\source\repos\Recipe Manager\Recipe Manager\obj\Debug\Recipe_Manager.AddRecipe.resources
+C:\Users\elev\source\repos\Recipe Manager\Recipe Manager\obj\Debug\Recipe_Manager.Form1.resources
+C:\Users\elev\source\repos\Recipe Manager\Recipe Manager\obj\Debug\Recipe_Manager.Properties.Resources.resources
+C:\Users\elev\source\repos\Recipe Manager\Recipe Manager\obj\Debug\Recipe_Manager.ShowRecipe.resources
+C:\Users\elev\source\repos\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.csproj.GenerateResource.Cache
+C:\Users\elev\source\repos\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.csproj.CoreCompileInputs.cache
+C:\Users\elev\source\repos\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.exe
+C:\Users\elev\source\repos\Recipe Manager\Recipe Manager\obj\Debug\Recipe Manager.pdb
+C:\Users\elev\Desktop\Recipe Manager\bin\Debug\Recipe Manager.exe.config
+C:\Users\elev\Desktop\Recipe Manager\bin\Debug\Recipe Manager.exe
+C:\Users\elev\Desktop\Recipe Manager\bin\Debug\Recipe Manager.pdb
+C:\Users\elev\Desktop\Recipe Manager\obj\Debug\Recipe Manager.csprojResolveAssemblyReference.cache
+C:\Users\elev\Desktop\Recipe Manager\obj\Debug\Recipe_Manager.AddRecipe.resources
+C:\Users\elev\Desktop\Recipe Manager\obj\Debug\Recipe_Manager.Form1.resources
+C:\Users\elev\Desktop\Recipe Manager\obj\Debug\Recipe_Manager.Properties.Resources.resources
+C:\Users\elev\Desktop\Recipe Manager\obj\Debug\Recipe_Manager.ShowRecipe.resources
+C:\Users\elev\Desktop\Recipe Manager\obj\Debug\Recipe Manager.csproj.GenerateResource.Cache
+C:\Users\elev\Desktop\Recipe Manager\obj\Debug\Recipe Manager.csproj.CoreCompileInputs.cache
+C:\Users\elev\Desktop\Recipe Manager\obj\Debug\Recipe Manager.exe
+C:\Users\elev\Desktop\Recipe Manager\obj\Debug\Recipe Manager.pdb
+C:\Users\elev\Desktop\Utmaningar_TE16_Viktor\(Uppgift 10) Recipe Manager\bin\Debug\Recipe Manager.exe.config
+C:\Users\elev\Desktop\Utmaningar_TE16_Viktor\(Uppgift 10) Recipe Manager\bin\Debug\Recipe Manager.exe
+C:\Users\elev\Desktop\Utmaningar_TE16_Viktor\(Uppgift 10) Recipe Manager\bin\Debug\Recipe Manager.pdb
+C:\Users\elev\Desktop\Utmaningar_TE16_Viktor\(Uppgift 10) Recipe Manager\obj\Debug\Recipe Manager.csprojResolveAssemblyReference.cache
+C:\Users\elev\Desktop\Utmaningar_TE16_Viktor\(Uppgift 10) Recipe Manager\obj\Debug\Recipe_Manager.AddRecipe.resources
+C:\Users\elev\Desktop\Utmaningar_TE16_Viktor\(Uppgift 10) Recipe Manager\obj\Debug\Recipe_Manager.Form1.resources
+C:\Users\elev\Desktop\Utmaningar_TE16_Viktor\(Uppgift 10) Recipe Manager\obj\Debug\Recipe_Manager.Properties.Resources.resources
+C:\Users\elev\Desktop\Utmaningar_TE16_Viktor\(Uppgift 10) Recipe Manager\obj\Debug\Recipe_Manager.ShowRecipe.resources
+C:\Users\elev\Desktop\Utmaningar_TE16_Viktor\(Uppgift 10) Recipe Manager\obj\Debug\Recipe Manager.csproj.GenerateResource.Cache
+C:\Users\elev\Desktop\Utmaningar_TE16_Viktor\(Uppgift 10) Recipe Manager\obj\Debug\Recipe Manager.csproj.CoreCompileInputs.cache
+C:\Users\elev\Desktop\Utmaningar_TE16_Viktor\(Uppgift 10) Recipe Manager\obj\Debug\Recipe Manager.exe
+C:\Users\elev\Desktop\Utmaningar_TE16_Viktor\(Uppgift 10) Recipe Manager\obj\Debug\Recipe Manager.pdb
